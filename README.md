@@ -33,13 +33,6 @@ This project utilizes classification algorithms to identify iris flower species 
     - Train Logistic Regression and Decision Tree models
     - Evaluate performance using accuracy and confusion matrix
 
-## Project Structure
-
-iris-flower-classification/
-├── iris_classification.ipynb
-├── README.md
-└── requirements.txt
-
 ## Results
 
 - Seaborn pairplot visualizing dataset features and classes
